@@ -1,0 +1,10 @@
+{
+  "site_title": "日韩经典视频-经典影片合集-高清视频在线观看",
+  "logo": "日韩经典视频",
+  "parsed_movies": 2000,
+  "category_pages": 10,
+  "detail_pages": 2000,
+  "html_pages": 2015,
+  "m3u8_sources_extracted": 20,
+  "image_policy": "HTML references top-level 1.jpg to 150.jpg; no extra JPG/PNG/WebP images were generated."
+}
